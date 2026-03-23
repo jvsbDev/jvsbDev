@@ -1,5 +1,5 @@
 <h1 align="center">Hi, i'm João Victor</h1>
-<h3 align="center">I'm currently a computer enginneering student</h3>
+<h3 align="center">I'm currently a computer engineering student</h3>
 
 🚀 About Me
 - 🎓 Currently pursuing a degree in Computer Engineering.
@@ -8,9 +8,12 @@
 
 
 ### Connect with me:
-<a href="mailto:santosbentto123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+<p align="left">
+  <a href="mailto:santosbentto123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a> 
+  <code>santosbentto123@gmail.com</code>
+</p>
 
 ### Languages and Tools:
 <p align="left">
